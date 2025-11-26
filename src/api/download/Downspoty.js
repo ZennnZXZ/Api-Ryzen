@@ -42,7 +42,7 @@ module.exports = function (app) {
 
       res.json({
         status: true,
-        creator: "FlowFalcon",
+        creator: "RyzenThawne",
         result: {
           title,
           artist,
