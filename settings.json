@@ -256,12 +256,6 @@
           "status": "ready"
         }, 
         {
-          "name": "Random Nsfw",
-          "desc": "Random foto nsfw",
-          "path": "/random/nsfw",
-          "status": "error"
-        }, 
-        {
           "name": "Pap Ayang",
           "desc": "Random pap ayang",
           "path": "/random/papayang",
