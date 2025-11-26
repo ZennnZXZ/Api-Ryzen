@@ -213,6 +213,15 @@
           }
         },
         {
+          "name": "Spotify Downloader",
+          "desc": "Mengunduh lagu dari situs Spotify",
+          "path": "/download/spotify?url=",
+          "status": "ready",
+          "params": {
+            "url": "URL lagu spotify."
+          }
+        },
+        {
           "name": "Videy Downloader",
           "desc": "Mengunduh video dari situs Videy.co.",
           "path": "/download/videy?url=",
