@@ -186,7 +186,7 @@
         {
           "name": "Spotify",
           "desc": "Downloader spotify",
-          "path": "/download/spotify?url=",
+          "path": "/download/Downspoty?url=",
           "status": "ready",
           "params": {
             "url": "URL lagu Spotify"
