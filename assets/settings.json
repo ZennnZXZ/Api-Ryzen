@@ -239,12 +239,6 @@
           "status": "ready"
         },
         {
-          "name": "NSFW Image",
-          "desc": "Menampilkan gambar anime acak yang tidak aman (NSFW).",
-          "path": "/random/nsfw",
-          "status": "ready"
-        },
-        {
           "name": "Pap Ayang",
           "desc": "Menampilkan gambar 'PAP Ayang' secara acak.",
           "path": "/random/papayang",
