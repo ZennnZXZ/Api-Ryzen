@@ -215,7 +215,7 @@
         {
           "name": "Spotify Downloader",
           "desc": "Mengunduh lagu dari situs Spotify.com",
-          "path": "/download/Downspoty?url=",
+          "path": "/download/spotify?url=",
           "status": "ready",
           "params": {
             "url": "URL lagu Spotify."
