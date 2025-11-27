@@ -277,15 +277,6 @@
           }
         }, 
         {
-          "name": "ToFigure",
-          "desc": "Mengubah foto menjadi figurin",
-          "path": "/tools/tofigure?url=",
-          "status": "ready",
-          "params": {
-            "url": "URL gambar yang ingin diubah."
-          }
-        },
-        {
           "name": "OCR",
           "desc": "Read text from image",
           "path": "/tools/ocr?url=",
